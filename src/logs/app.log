@@ -1,0 +1,80 @@
+Jul 30, 2025 6:26:14 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: user2
+Jul 30, 2025 6:26:14 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: user2
+Jul 30, 2025 6:26:15 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: admin
+Jul 30, 2025 6:26:15 PM LoginService simulateLoginAttempts
+INFO: Login successful for user: admin
+Jul 30, 2025 6:26:15 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: user2
+Jul 30, 2025 6:26:15 PM LoginService simulateLoginAttempts
+INFO: Login successful for user: user2
+Jul 30, 2025 6:26:16 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: user1
+Jul 30, 2025 6:26:16 PM LoginService simulateLoginAttempts
+INFO: Login successful for user: user1
+Jul 30, 2025 6:26:17 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: guest
+Jul 30, 2025 6:26:17 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: guest
+Jul 30, 2025 6:26:17 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: data.csv
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: data.csv
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: report.pdf
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: report.pdf
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: 
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+SEVERE: Error processing file:  - File name cannot be empty
+Jul 30, 2025 6:26:18 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: config.xml
+Jul 30, 2025 6:26:19 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: config.xml
+Jul 30, 2025 6:26:19 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: null
+Jul 30, 2025 6:26:19 PM FileProcessor simulateFileProcessing
+SEVERE: Error processing file: null - File name cannot be empty
+Jul 30, 2025 6:26:51 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: admin
+Jul 30, 2025 6:26:51 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: admin
+Jul 30, 2025 6:26:52 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: guest
+Jul 30, 2025 6:26:52 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: guest
+Jul 30, 2025 6:26:52 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: admin
+Jul 30, 2025 6:26:52 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: admin
+Jul 30, 2025 6:26:53 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: admin
+Jul 30, 2025 6:26:53 PM LoginService simulateLoginAttempts
+WARNING: Login failed for user: admin
+Jul 30, 2025 6:26:53 PM LoginService simulateLoginAttempts
+INFO: Login attempt for user: admin
+Jul 30, 2025 6:26:53 PM LoginService simulateLoginAttempts
+INFO: Login successful for user: admin
+Jul 30, 2025 6:26:54 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: data.csv
+Jul 30, 2025 6:26:54 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: data.csv
+Jul 30, 2025 6:26:54 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: report.pdf
+Jul 30, 2025 6:26:55 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: report.pdf
+Jul 30, 2025 6:26:55 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: 
+Jul 30, 2025 6:26:55 PM FileProcessor simulateFileProcessing
+SEVERE: Error processing file:  - File name cannot be empty
+Jul 30, 2025 6:26:55 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: config.xml
+Jul 30, 2025 6:26:56 PM FileProcessor simulateFileProcessing
+INFO: File processed successfully: config.xml
+Jul 30, 2025 6:26:56 PM FileProcessor simulateFileProcessing
+INFO: Started processing file: null
+Jul 30, 2025 6:26:56 PM FileProcessor simulateFileProcessing
+SEVERE: Error processing file: null - File name cannot be empty
